@@ -1,0 +1,581 @@
+﻿  smp3service.cpp
+c:\projects\alchevsk\smp3service.cpp(205): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(299): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(421): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(461): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(473): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(477): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(503): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(503): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(506): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(506): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(509): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(509): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(513): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(513): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(516): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(516): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(519): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(519): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(522): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(525): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(525): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(531): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(531): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(538): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(538): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(544): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(544): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(556): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(557): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(558): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(594): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(605): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(618): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(632): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(650): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(673): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(682): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(683): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(686): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(686): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(689): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(691): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(695): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(696): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(758): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(770): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(783): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(797): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(811): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(826): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(831): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(831): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(836): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(836): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(841): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(841): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(847): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(847): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(851): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(851): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(854): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(854): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(857): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(899): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(899): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(900): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(900): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(901): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(901): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(902): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(902): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(903): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(903): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(906): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(914): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(927): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(998): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1069): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1070): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1098): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1102): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1107): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1111): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1116): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1120): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1135): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1192): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1196): warning C4244: =: преобразование "float" в "char", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1249): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1250): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1280): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1284): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1288): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1294): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1301): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1302): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1303): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1304): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1305): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1306): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1307): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1340): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1341): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1342): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1343): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1344): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1345): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1346): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1363): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1365): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1367): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1373): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1374): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1419): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1419): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1422): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1422): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1426): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1431): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1437): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1442): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1448): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1450): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1450): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1455): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1466): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1473): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1533): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1535): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1538): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1541): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1549): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1550): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1551): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1451): warning C4102: NastrSlug: неиспользованная метка
+c:\projects\alchevsk\smp3service.cpp(1590): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1591): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1592): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1593): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1594): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1595): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1596): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1597): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1598): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1599): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1602): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1605): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1608): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1613): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1652): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1654): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1656): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1661): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1662): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1666): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1669): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1669): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1685): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1685): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1688): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1688): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1691): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1691): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1700): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1720): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1726): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1764): warning C4018: <: несоответствие типов со знаком и без знака
+c:\projects\alchevsk\smp3service.cpp(1791): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1822): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1826): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1830): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1834): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1838): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1842): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1846): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1850): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1854): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1858): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1862): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1866): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1870): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1874): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1878): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1886): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1926): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1928): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1930): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1932): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1934): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1936): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1938): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1940): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1942): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1944): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1946): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1948): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1950): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1952): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1954): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(1958): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1959): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1986): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1987): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1989): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1990): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1991): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1992): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1994): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1995): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1996): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1997): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(1998): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2000): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2001): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2013): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2014): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2015): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2016): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2017): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2019): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2031): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2032): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2033): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2034): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2035): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2036): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2037): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2038): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2039): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2040): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2041): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2042): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2043): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2044): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2045): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2046): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2059): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2061): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2062): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2063): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2064): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2065): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2066): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2067): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2068): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2069): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2070): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2071): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2073): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2074): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2075): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2089): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2092): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2094): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2096): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2098): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2099): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2113): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2116): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2119): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2120): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2121): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2122): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2124): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2125): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2126): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2128): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2129): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2143): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2146): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2149): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2150): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2151): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2153): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2154): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2155): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2157): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2158): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2159): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2166): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2167): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2168): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2169): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2171): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2172): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2173): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2174): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2175): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2176): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2177): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2192): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2193): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2194): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2195): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2196): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2197): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2199): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(2593): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(2594): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(2598): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(2599): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(2938): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\projects\alchevsk\smp3service.cpp(2947): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\projects\alchevsk\smp3service.cpp(2981): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\projects\alchevsk\smp3service.cpp(2988): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\projects\alchevsk\smp3service.cpp(3003): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(3005): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(3007): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(3009): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(3012): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+c:\projects\alchevsk\smp3service.cpp(3034): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+c:\projects\alchevsk\smp3service.cpp(3057): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+c:\projects\alchevsk\smp3service.cpp(3070): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+c:\projects\alchevsk\smp3service.cpp(3210): warning C4244: =: преобразование "float" в "byte", возможна потеря данных
+c:\projects\alchevsk\smp3service.cpp(3298): warning C4101: ACout1: неиспользованная локальная переменная
+c:\projects\alchevsk\smp3service.cpp(3298): warning C4101: ACout0: неиспользованная локальная переменная
+c:\projects\alchevsk\smp3service.cpp(3297): warning C4101: CRC: неиспользованная локальная переменная
+c:\projects\alchevsk\smp3service.cpp(3328): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(3329): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(110): см. объявление "strcat"
+c:\projects\alchevsk\smp3service.cpp(3330): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(110): см. объявление "strcat"
+c:\projects\alchevsk\smp3service.cpp(3338): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(188): см. объявление "strncpy"
+c:\projects\alchevsk\smp3service.cpp(3556): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(3559): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(110): см. объявление "strcat"
+c:\projects\alchevsk\smp3service.cpp(3561): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(110): см. объявление "strcat"
+c:\projects\alchevsk\smp3service.cpp(3562): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(110): см. объявление "strcat"
+c:\projects\alchevsk\smp3service.cpp(3571): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(3572): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(188): см. объявление "strncpy"
+c:\projects\alchevsk\smp3service.cpp(3574): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(175): см. объявление "strncat"
+c:\projects\alchevsk\smp3service.cpp(3589): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(188): см. объявление "strncpy"
+c:\projects\alchevsk\smp3service.cpp(3591): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(175): см. объявление "strncat"
+c:\projects\alchevsk\smp3service.cpp(3597): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(3672): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+c:\projects\alchevsk\smp3service.cpp(3696): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+c:\projects\alchevsk\smp3service.cpp(3721): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+c:\projects\alchevsk\smp3service.cpp(3737): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+c:\projects\alchevsk\smp3service.cpp(3751): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+c:\projects\alchevsk\smp3service.cpp(3777): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+c:\projects\alchevsk\smp3service.cpp(3803): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+c:\projects\alchevsk\smp3service.cpp(3829): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(3836): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(3846): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+c:\projects\alchevsk\smp3service.cpp(3943): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(3945): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(3947): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(3949): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(3951): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+c:\projects\alchevsk\smp3service.cpp(3973): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+c:\projects\alchevsk\smp3service.cpp(3993): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+c:\projects\alchevsk\smp3service.cpp(4006): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+c:\projects\alchevsk\smp3service.cpp(4046): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(4070): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+c:\projects\alchevsk\smp3service.cpp(4073): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(110): см. объявление "strcat"
+c:\projects\alchevsk\smp3service.cpp(4075): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(110): см. объявление "strcat"
+c:\projects\alchevsk\smp3service.cpp(4076): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(110): см. объявление "strcat"
+c:\projects\alchevsk\smp3service.cpp(4097): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(110): см. объявление "strcat"
+c:\projects\alchevsk\smp3service.cpp(4104): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(110): см. объявление "strcat"
+c:\projects\alchevsk\smp3service.cpp(4111): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(110): см. объявление "strcat"
+c:\projects\alchevsk\smp3service.cpp(4118): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(110): см. объявление "strcat"
+c:\projects\alchevsk\smp3service.cpp(4124): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(110): см. объявление "strcat"
+  spm3service.vcxproj -> c:\Projects\Alchevsk\Debug\spm3service.exe
