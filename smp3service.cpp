@@ -1662,44 +1662,62 @@ nr1:;
 		strcpy(Text,"       "); tempchar=PrintXY(11,1,7);SetCursor(PosX,PosY);
 		PosX=0;PosY=0;SetCursor(PosX, PosY);
 		}; //Save
-		if (Key=='5') { PosY=0;
-		Saw_A0=N_Rez*1000;
-		ComCMode(0x01,0x01);Sleep(1000);
-		do {PosY=3;
-		y=Saw_A0; for (i=8;i!=0;i--) {z=fmod(y,10); y=floor(y/10); temp[PosY][i-1]=z+48;};
-		temp[PosY][0]=temp[PosY][1];temp[PosY][1]=temp[PosY][2];
-		temp[PosY][2]=temp[PosY][3];temp[PosY][3]=temp[PosY][4];temp[PosY][4]='.';
-		for (i=0;i<8;i++)
-		{Text[i]=temp[PosY][i];
-		tempchar=PrintXY(12,PosY,8);
-		};
-		Sleep(1000);
-		WriteDataSPMSet();
-		Sleep(1000);
-		ComCMode(0x01,0x00);
-		Sleep(2000);
-		ReadDataSPMCurrent();
-		//printf("%u",Saw_A0);//printf(" ");printf("%u",Am0);printf(" ");printf("%u",Haw0);printf(" ");printf("%u",Gamma0);printf("\n");
-		Sleep(1000);
-		PosY=5;
-		y=Am0*1000; for (i=8;i!=0;i--) {z=fmod(y,10); y=floor(y/10); temp[PosY][i-1]=z+48;};
-		temp[PosY][0]=temp[PosY][1];temp[PosY][1]=temp[PosY][2];
-		temp[PosY][2]=temp[PosY][3];temp[PosY][3]=temp[PosY][4];temp[PosY][4]='.';PosY++;
-		y=Haw0; for (i=8;i!=0;i--) {z=fmod(y,10); y=floor(y/10); temp[PosY][i-1]=z+48;};
-		temp[PosY][0]=temp[PosY][1];temp[PosY][1]=temp[PosY][2];
-		temp[PosY][2]=temp[PosY][3];temp[PosY][3]=temp[PosY][4];temp[PosY][4]='.';PosY++;
-		y=Gamma0; for (i=8;i!=0;i--) {z=fmod(y,10); y=floor(y/10); temp[PosY][i-1]=z+48;};
-		temp[PosY][0]=temp[PosY][1];temp[PosY][1]=temp[PosY][2];
-		temp[PosY][2]=temp[PosY][3];temp[PosY][3]=temp[PosY][4];temp[PosY][4]='.';PosY++;
-		for (j=5;j<8;j++)
-		{ for (i=0;i<8;i++)
-		{Text[i]=temp[j][i];
-		tempchar=PrintXY(12,j,8);
-		};
-		};  //
-		Saw_A0=Saw_A0+Step_Rez*1000;
-		} while (Saw_A0<K_Rez*1000); //Cicl Rezonans
-		do {Key=ReadKeyBuffered();} while (Key!='Z');//}
+
+		if (Key=='5') { 
+			PosY=0;
+			Saw_A0=N_Rez*1000;
+			//ComCMode(0x01,0x01);
+			Sleep(1000);
+			do {
+				PosY=3;
+				y=Saw_A0; 
+				for (i=8;i!=0;i--) {
+					z=fmod(y,10); y=floor(y/10); temp[PosY][i-1]=z+48;
+				};
+				temp[PosY][0]=temp[PosY][1];temp[PosY][1]=temp[PosY][2];
+				temp[PosY][2]=temp[PosY][3];temp[PosY][3]=temp[PosY][4];temp[PosY][4]='.';
+				for (i=0;i<8;i++){
+					Text[i]=temp[PosY][i];
+					tempchar=PrintXY(12,PosY,8);
+				};
+				Sleep(1000);
+				WriteDataSPMSet();
+				Sleep(1000);
+				//ComCMode(0x01,0x00);
+				Sleep(2000);
+				ReadDataSPMCurrent();
+				//printf("%u",Saw_A0);//printf(" ");printf("%u",Am0);printf(" ");printf("%u",Haw0);printf(" ");printf("%u",Gamma0);printf("\n");
+				Sleep(1000);
+				PosY=5;
+				y=Am0*1000; 
+				for (i=8;i!=0;i--) {
+					z=fmod(y,10); y=floor(y/10); temp[PosY][i-1]=z+48;
+				};
+				temp[PosY][0]=temp[PosY][1];temp[PosY][1]=temp[PosY][2];
+				temp[PosY][2]=temp[PosY][3];temp[PosY][3]=temp[PosY][4];temp[PosY][4]='.';PosY++;
+				y=Haw0; 
+				for (i=8;i!=0;i--) {
+					z=fmod(y,10); y=floor(y/10); temp[PosY][i-1]=z+48;
+				};
+				temp[PosY][0]=temp[PosY][1];temp[PosY][1]=temp[PosY][2];
+				temp[PosY][2]=temp[PosY][3];temp[PosY][3]=temp[PosY][4];temp[PosY][4]='.';PosY++;
+				y=Gamma0; 
+				for (i=8;i!=0;i--) {
+					z=fmod(y,10); y=floor(y/10); temp[PosY][i-1]=z+48;
+				};
+				temp[PosY][0]=temp[PosY][1];temp[PosY][1]=temp[PosY][2];
+				temp[PosY][2]=temp[PosY][3];temp[PosY][3]=temp[PosY][4];temp[PosY][4]='.';PosY++;
+				for (j=5;j<8;j++){ 
+					for (i=0;i<8;i++){
+						Text[i]=temp[j][i];
+						tempchar=PrintXY(12,j,8);
+					};
+				};  //
+				Saw_A0=Saw_A0+Step_Rez*1000;
+			} while (Saw_A0<K_Rez*1000); //Cicl Rezonans
+			do {
+				Key=ReadKeyBuffered();
+			} while (Key!='Z');//}
 		};// Key 5
 
 		//goto NastrSlug;
@@ -2754,9 +2772,10 @@ char ComReadIntReg(char UstrAdr,char StartAdr, char Length) // Chtenie registrov
 	DWORD ret = 0;
 	WriteFile(hCom1,ComDataWrite,lenr,&ret,NULL);
 	//printf("%x",length);
-	printf("\n");  printf("\n");
-	for (i=0;i<lenr;i++) {printf("%x",ComDataWrite[i]);printf(" ");};
-	//printf("\n");
+	printf("\nTX:->");
+	for (i=0;i<lenr;i++) {
+		printf("%x ",ComDataWrite[i]);
+	}
 	//Read:
 	//OK:    Error:
 	//adres //byte 0 byte 0
@@ -2766,7 +2785,10 @@ char ComReadIntReg(char UstrAdr,char StartAdr, char Length) // Chtenie registrov
 	// CRC        //byte 3 byte 4
 	lenr=(Length*2)+4;
 	ReadFile(hCom1,ComDataRead,lenr,&ret,NULL);
-	for (i=0;i<lenr;i++) {printf("%x",ComDataRead[i]);printf(" ");};
+	printf("\nRX:<-");
+	for (i=0;i<lenr;i++) {
+		printf("%x ",ComDataRead[i]);
+	}
 	//printf("\n");printf("\n");
 
 	//Rasshifrovka otveta
